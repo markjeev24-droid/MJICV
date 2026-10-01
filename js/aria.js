@@ -477,7 +477,7 @@ const profile = {
                 title: "GITHUB",
 
                 text:
-                    "Not specified"
+                    "https://github.com/markjeev24-droid"
             }
 
         ]
